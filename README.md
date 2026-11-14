@@ -36,14 +36,6 @@ Developed in **C++** (Memory manipulation is compiled). Features include ESP, Ai
 
 ---
 
-## 📞 Contact / Community (Anonim İletişim)
-- **Developer:** Anonymous
-- **Telegram:** [@anon_dev] ( https://t.me/your_fake_telegram )
-- **Discord Server:** [Join Here] ( https://discord.gg/your_fake_invite )
-- **Email:** anonymous@protonmail.com
-
----
-
 ## ☕ Support
 If you like the cheat, you can buy me a coffee (Crypto only):
 - **BTC:** `1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa`
